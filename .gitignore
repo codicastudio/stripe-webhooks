@@ -1,0 +1,6 @@
+build
+composer.lock
+docs
+vendor
+coverage.clover
+.php_cs.cache
