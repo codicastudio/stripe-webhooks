@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/stripewebhooks",
+    "name": "codica-studio/stripewebhooks",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/stripewebhooks",
+    "homepage": "https://github.com/codica-studio/stripewebhooks",
     "license": "MIT",
     "authors": [
         {
