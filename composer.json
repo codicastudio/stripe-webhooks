@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/stripewebhooks",
+    "name": "codicastudio/stripe-webhooks",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/stripewebhooks",
+    "homepage": "https://github.com/codicastudio/stripe-webhooks",
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +12,7 @@
             "role": "Developer"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
         "php": "^7.4 || ^8.0",
